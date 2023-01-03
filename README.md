@@ -1,4 +1,4 @@
-# pandafinal
+# pandatalks
 
 A new Flutter project.
 
