@@ -1,6 +1,6 @@
 # pandatalks
 
-Our Chat application uses 256-bit AES for securely transmitting and storing our messages in Firebase.
+PandaTalks is a dynamic chat application built with Flutter, offering a seamless and engaging chatting experience. The app allows users to communicate securely with 256-bit AES encryption for message transmission and storage in Firebase.
 
 ## Getting Started
 <p align="center">
@@ -13,6 +13,12 @@ Our Chat application uses 256-bit AES for securely transmitting and storing our 
 <img src = "https://user-images.githubusercontent.com/77544758/210411342-261dcd5a-fa77-4dde-bb65-b85d63267917.png" widht =400 height = 400>
 <img src = "https://user-images.githubusercontent.com/77544758/210411396-8abfe1ed-01d4-4d21-a63a-38f77f50a3fb.png" widht =400 height = 400>
 
+# Features
+
+Features
+Secure Messaging: Utilizes 256-bit AES encryption for secure communication.
+Firebase Integration: Stores and retrieves messages seamlessly using Firebase.
+Flutter Framework: Offers a responsive and visually appealing user interface built with Flutter.
 
 
 
